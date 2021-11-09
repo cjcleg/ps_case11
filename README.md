@@ -1,2 +1,2 @@
 # ps_case11
-implementation of DOM traversal in the ps case study 
+implementation of jquery to replace event listeners on the contact page. 
